@@ -49,7 +49,7 @@ ____
 
    - Nota: Agregamos autenticación para los consumos.
 
-   - Como resultado obtenemos reporte de pruebas tanto en formato karate como en formato cucumber.
+   - Como resultado obtenemos reporte de pruebas tanto en formato karate como en formato cucumber. El resultado queda en la carpeta autogenerada 'build' en el archivo cucumber-report.
 
 
     ___

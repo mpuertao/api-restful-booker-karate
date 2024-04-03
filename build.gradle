@@ -20,7 +20,7 @@ test {
     useJUnitPlatform()
 }
 
-sourceSets{ // busque los recursos y excluya
+sourceSets{
     test{
         resources{
             srcDir file('src/test/java')
