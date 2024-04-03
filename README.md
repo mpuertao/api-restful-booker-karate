@@ -1,6 +1,7 @@
-# Automatización de Pruebas de API con Karate (RETO TECNICO ENERBIT - QA)
+# Automatización de Pruebas de API 
 
-E
+(Reto Tecnico Enerbit - QA)
+
 
 <p align='center'>
 Sste proyecto utiliza KarateJS para automatizar las pruebas de una **API**.
