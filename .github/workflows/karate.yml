@@ -23,7 +23,7 @@ jobs:
           java-version: '11'
 
       - name: Build with Gradle
-        run: mvn clean install -DskipTests
+        run: ./gradlew clean build
 
       - name: Run Karate Tests
         run: ./gradlew clean test
