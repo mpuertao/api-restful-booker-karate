@@ -4,7 +4,7 @@
 
 
 <p align='center'>
-Sste proyecto utiliza KarateJS para automatizar las pruebas de una **API**.
+   Este proyecto utiliza KarateJS para automatizar las pruebas de una **API**.
 </p>
 
 
