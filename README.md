@@ -1,6 +1,20 @@
 # Automatización de Pruebas de API con Karate (RETO TECNICO ENERBIT - QA)
 
-Este proyecto utiliza KarateJS para automatizar las pruebas de una API.
+E
+
+<p align='center'>
+Sste proyecto utiliza KarateJS para automatizar las pruebas de una **API**.
+</p>
+
+
+
+<p align='center'>
+ <a href="https://github.com/mpuertao/api-restful-booker-karate/actions">
+    <img src="https://github.com/mpuertao/api-restful-booker-karate/actions/workflows/karate.yml/badge.svg" />
+  </a>
+</p>
+
+<br>
 
 ____
 
